@@ -1,0 +1,96 @@
+h1{
+  color: #ffffff;
+  text-align: center;
+  size: 24px;
+  text-transform: uppercase;
+}
+
+h2{
+  color: #0033ff;
+  text-align: center;
+  margin-top: 35px;
+  margin-left: 10px;
+}
+
+.h2{
+  color: #0033ff;
+  text-align: left;
+}
+
+#maket {
+  width: 50%;
+  display: inline;
+}
+td {
+  vertical-align: top;
+  padding: 5px;
+}
+.leftcol {
+  width: 200px;
+  background: #ccc;
+}
+.rightcol {
+  background: #2c638f;
+  width: 50%;
+}
+
+.table{
+  width: 50%;
+  height: auto;
+  /*margin-left: 20px;*/
+}
+
+#maket2 {
+  width: 100%;
+  display: inline;
+}
+
+.leftcol2{
+  width: 50%;
+  background: #ccc;
+}
+
+.rightcol2{
+  background: #2c638f;
+  width: 50%;
+}
+
+#maket3 {
+  width: 100%;
+  display: inline;
+}
+
+
+.img{
+  width: 50px;
+  height: 50px;
+}
+
+h4{
+  color: white;
+  size: 20px;
+}
+
+.exp-color{
+  color: white;
+}
+
+a{
+  color: white;
+}
+
+#maket4 {
+  width: 100%;
+  display: inline;
+}
+
+#maket5 {
+  width: 100%;
+  display: inline;
+}
+
+#maket6 {
+  width: 100%;
+  display: inline;
+}
+
